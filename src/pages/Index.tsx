@@ -11,7 +11,7 @@ const Index = () => {
           <div className="flex items-center space-x-3">
             <Icon name="Zap" size={32} className="text-primary" />
             <h1 className="text-2xl font-bold" style={{ fontFamily: 'Roboto Condensed, sans-serif' }}>
-              ЭЛЕКТРОМОНТАЖ ПРО
+              ООО ЭНЕРДЖИ ЭЛЕКТРИК
             </h1>
           </div>
           <nav className="hidden md:flex space-x-8">
@@ -219,11 +219,11 @@ const Index = () => {
               <div className="flex items-center space-x-3 mb-6">
                 <Icon name="Zap" size={32} className="text-primary" />
                 <h3 className="text-xl font-bold" style={{ fontFamily: 'Roboto Condensed, sans-serif' }}>
-                  ЭЛЕКТРОМОНТАЖ ПРО
+                  ООО ЭНЕРДЖИ ЭЛЕКТРИК
                 </h3>
               </div>
               <p className="text-gray-300">
-                Профессиональные электромонтажные работы с гарантией качества
+                Надежные электромонтажные решения для дома и бизнеса
               </p>
             </div>
             
@@ -246,7 +246,7 @@ const Index = () => {
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="Mail" size={16} />
-                  <span>info@elektromontazh.pro</span>
+                  <span>info@energyelectric.ru</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="MapPin" size={16} />
@@ -267,7 +267,7 @@ const Index = () => {
           
           <hr className="border-gray-600 my-8" />
           <div className="text-center text-gray-400">
-            <p>&copy; 2024 ЭлектроМонтаж Про. Все права защищены.</p>
+            <p>&copy; 2024 ООО "Энерджи Электрик". Все права защищены.</p>
           </div>
         </div>
       </footer>
